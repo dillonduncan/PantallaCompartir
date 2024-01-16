@@ -6,7 +6,7 @@ plugins {
 android {
     viewBinding.enable = true
     namespace = "com.example.pantallacompartir"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.pantallacompartir"
